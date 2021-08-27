@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="520" height="640" viewBox="0 0 520 640">
+    <defs>
+        <style>
+            @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400&amp;display=swap');
+        </style>
+    </defs>
+    <path d="M 36 505.6 L 484 505.6 L 484 608 L 36 608 Z M 39.7 604.3 L 134.7 604.3 L 134.7 509.3 L 39.7 509.3 Z" fill="#000000"/>
+    <text fill="white" font-size="64" font-family="Open Sans" font-weight="400" x="305" y="581" text-anchor="middle">SCAN ME</text>
+    <rect x="36" y="32" width="448" height="448" id="qr" fill="#CCEFF0"/>
+</svg>

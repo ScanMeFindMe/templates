@@ -52,6 +52,34 @@ To download template right-click on the "download" link and select "Save link as
         </td>
         <td><a href="https://raw.githubusercontent.com/ScanMeFindMe/templates/master/templates/square_bubble.svg">download</a></td>
     </tr>
+    <tr>
+        <td><img src="templates/phone_outline.svg" width="120" height="120"></td>
+        <td>
+            Author: ScanMeFindMe
+        </td>
+        <td><a href="https://raw.githubusercontent.com/ScanMeFindMe/templates/master/templates/phone_outline.svg">download</a></td>
+    </tr>
+    <tr>
+        <td><img src="templates/with_logo_placeholder.svg" width="120" height="120"></td>
+        <td>
+            Author: ScanMeFindMe
+        </td>
+        <td><a href="https://raw.githubusercontent.com/ScanMeFindMe/templates/master/templates/with_logo_placeholder.svg">download</a></td>
+    </tr>
+    <tr>
+        <td><img src="templates/corners.svg" width="120" height="120"></td>
+        <td>
+            Author: ScanMeFindMe
+        </td>
+        <td><a href="https://raw.githubusercontent.com/ScanMeFindMe/templates/master/templates/corners.svg">download</a></td>
+    </tr>
+    <tr>
+        <td><img src="templates/black_badge.svg" width="120" height="120"></td>
+        <td>
+            Author: ScanMeFindMe
+        </td>
+        <td><a href="https://raw.githubusercontent.com/ScanMeFindMe/templates/master/templates/black_badge.svg">download</a></td>
+    </tr>
 </table>
 
 
